@@ -8,5 +8,6 @@
 			"type": "pear",
 			"url": "http://pear.php.net"
 		}
-	]
+	],
+	"include-path": ["src/"]
 }
