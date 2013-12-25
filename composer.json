@@ -9,5 +9,8 @@
 			"url": "http://pear.php.net"
 		}
 	],
-	"include-path": ["src/"]
+	"autoload": {
+		"files": ["src/Services_JSON-wrapper.php"],
+		"classmap": ["vendor/pear-pear.php.net/Services_JSON/Services/"]
+	}
 }
