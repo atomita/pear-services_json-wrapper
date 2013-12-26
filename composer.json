@@ -1,5 +1,5 @@
 {
-	"name": "pear-services_json-wrapper",
+	"name": "atomita/pear-services_json-wrapper",
 	"require": {
 		"pear-pear.php.net/Services_JSON": "*"
 	},
