@@ -11,6 +11,6 @@
 	],
 	"autoload": {
 		"files": ["src/ServicesJsonWrapper.php"],
-		"classmap": ["vendor/pear-pear.php.net/Services_JSON/Services/"]
+		"classmap": ["../../../vendor/pear-pear.php.net/Services_JSON/Services/"]
 	}
 }
