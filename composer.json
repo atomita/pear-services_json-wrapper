@@ -1,5 +1,12 @@
 {
 	"name": "atomita/pear-services_json-wrapper",
+	"keywords": ["pear", "json"],
+	"license": "LGPLv3",
+	"authors": [
+		{
+			"name": "atomita"
+		}
+	],
 	"require": {
 		"pear-pear.php.net/Services_JSON": "*"
 	},
